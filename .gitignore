@@ -1,0 +1,5 @@
+generated/*
+downloaded/*
+*.pyc
+.idea
+images/*
